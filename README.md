@@ -74,3 +74,4 @@ https://colab.research.google.com/github/GoogleCloudPlatform/generative-ai/blob/
 
 ## Finally invoke the  Vector Search api to run similarity search for your input text
 Refer to spanner-vector-search.ipynb file
+# spanner-vertex-search
